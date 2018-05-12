@@ -1,0 +1,26 @@
+_repo: The-Last-Ditch_46152
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46152-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Comfort, Will Levington
+    birthdate: 1878
+    deathdate: 1932
+    gutenberg_agent_id: '2012'
+    url: http://www.gutenberg.org/2009/agents/2012
+description: ''
+gutenberg_issued: '2014-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- China -- Fiction'
+- !lcc 'PS'
+title: The Last Ditch
+url: http://www.gutenberg.org/ebooks/46152
